@@ -1,0 +1,46 @@
+.bodyco {
+    background-color: rgb(55, 71, 71);
+}
+
+.contco {
+    font-size: 90px;
+    color: rgb(33, 225, 135);
+    font-weight: 700;
+    /* display: inline; */
+    margin-left: 500px;
+    background-color: beige;
+    border-radius: 40px;
+    width: 500px;
+    margin-top: 30px;
+}
+
+.ulco {
+    list-style: none;
+    font-size: 40px;
+    
+}
+.lico{
+    padding-left: 60px;
+    text-decoration: none;
+    color: rgb(241, 236, 236);
+
+}
+
+.lico:hover{
+    /* transform: scale(2); */
+    /* transform:scaleY(1.2) */
+}
+.textco{
+    display: inline;
+position: relative;
+left: 160px;
+bottom: 50px;
+color: rgb(11, 9, 107);
+
+}
+.textco:hover{
+    color: brown;
+}
+.atagco:hover{
+    transform:scale(1.2)
+}

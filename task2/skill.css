@@ -1,0 +1,38 @@
+.bodysk {
+    background-color: rgb(205, 180, 180);
+    height: 800px;
+}
+
+.h1sk {
+    font-size: 80px;
+    text-align: center;
+    color: blueviolet;
+}
+
+#divsk1 {
+    border: 3px solid red;
+    width: 500px;
+    height: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    /* margin: auto; */
+}
+
+#divsk2 {
+    /* border: 3px solid red; */
+    width: 450px;
+    height: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    background-color: red;
+}
+.allele{
+    margin: 40px;
+    padding-left: 50px;
+}
+#divsk2:hover{
+    transform: scale(1.01);
+}
+#divsk1:hover{
+    transform: scale(1.1);
+}
